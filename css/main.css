@@ -11,6 +11,7 @@ body,html{
 }
 .section1{
     background: url(../img/blue.jpg);
+    padding-top: 
     width: 100%;
     height: 100%;
     text-align: center;
@@ -24,7 +25,7 @@ body,html{
 .sub-judul{
     font-family: arial;
     font-size: 20px;
-    color: brown;
+    color: black;
     margin: auto;
 }
 .section2{
